@@ -1,0 +1,16 @@
+Locale["en"] = {
+    weapon_not_equiped = "You don't have a weapon equiped!", 
+    weapon_saved = "Weapon saved!", 
+    components_saved = "Components saved!", 
+    equip_2_times = "You can't equip 2 times the same weapon!", 
+    weapon_equiped = "Weapon equiped!", 
+    weapon_loaded = "Weapon loaded!", 
+    weapon_full = "This weapon is full!", 
+    value_not_accepted = "Value not accepted!", 
+    wrong_weapon = "Wrong weapon!", 
+    box_used = "Box used!", 
+    cant_use_box = "You can't use more ammo boxes!", 
+    component_not_supported = "The weapon doesn't support this component!", 
+    weapon_got_component = "This weapon already has this component!", 
+    component_equiped = "Component equiped!", 
+}
